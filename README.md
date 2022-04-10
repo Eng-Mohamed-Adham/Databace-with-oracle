@@ -33,3 +33,7 @@ here we have 8 tables:
  customer table, account table,
  menu table, menu item table,
  manager table, chef table)
+
+I will now explain this database and
+ make a real data entry into it for
+the second time..
